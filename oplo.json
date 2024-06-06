@@ -5730,7 +5730,7 @@
                         "endPointsGrouping": "http_https",
                         "virtualDomain": "testvss-iscrizioni.unicatt.it",
                         "port": 8080,
-                        "numConnections": 0
+                        "numConnections": 5
                     },
                     {
                         "node": "ADCTEST01",
@@ -13600,7 +13600,7 @@
                         "endPointsGrouping": "http_https",
                         "virtualDomain": "testvss-iscrizioni.unicatt.it",
                         "port": 8080,
-                        "numConnections": 0
+                        "numConnections": 7
                     },
                     {
                         "node": "ADCTEST02",
